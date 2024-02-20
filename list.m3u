@@ -3,11 +3,13 @@ https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_so
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="General",El Nueve
 https://ythls.armelin.one/channel/UC6Qf8b2jcHHilkcr2wpQ9jA.m3u8
 #EXTINF:-1 tvg-id="America TV" tvg-logo="https://es.wikipedia.org/wiki/Am%C3%A9rica_Televisi%C3%B3n_(Argentina)#/media/Archivo:Am%C3%A9rica_TV_(Nuevo_logo_Junio_2020).png" group-title="General",América TV
-https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/3a38635e-6e2b-4676-826a-b9f83f63964d:SCL/variant/085a2414a253631c90e7ac89ccc9f934/bandwidth/1031000.m3u8
+https://dai.google.com/linear/hls/pa/event/OY2i_lL4SMyXE5Zaj4ULEg/stream/750ead83-bbfc-4818-9852-04c8fa64d2d9:SCL/variant/926d22b48e268d206b05dafb5866c540/bandwidth/646000.m3u8
 #EXTINF:-1 tvg-id="TE.LE.FE" tv-logo="https://upload.wikimedia.org/wikipedia/commons/c/cc/Telefe_%28nuevo_logo%29.png" group-title="General",TELEFE
 https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 #EXTINF:-1 tvg-id="ElTrece.ar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Logo_de_eltrece_lanzado_en_2016.png/512px-Logo_de_eltrece_lanzado_en_2016.png" group-title="General",El Trece
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
+#EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://deportv.gob.ar/assets/deportv10.fd14a2a1.png" group-title="Sports",DeporTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General",Argentinísima Satelital
 https://stream1.sersat.com/hls/argentinisima.m3u8
 #EXTINF:-1 tvg-id="Canal21TV.ar" tvg-logo="https://i.imgur.com/Am7yMXg.png" group-title="General",Canal 21 TV
