@@ -89,9 +89,6 @@ https://r.mjh.nz/PlutoTV/60142258a54aeb0007751c15-alt.m3u8
 #EXTINF:-1 channel-id="pluto-5de91cf02fc07c0009910465" tvg-id="5de91cf02fc07c0009910465" tvg-logo="https://images.pluto.tv/channels/5de91cf02fc07c0009910465/colorLogoPNG.png" group-title="Entretenimiento" , Telefe Hits
 https://r.mjh.nz/PlutoTV/5de91cf02fc07c0009910465-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5fab09a8749b1a00077d35d2" tvg-id="5fab09a8749b1a00077d35d2" tvg-logo="https://images.pluto.tv/channels/5fab09a8749b1a00077d35d2/colorLogoPNG-1662394157103.png" group-title="Teen" , Nick Teen
-https://r.mjh.nz/PlutoTV/5fab09a8749b1a00077d35d2-alt.m3u8
-
 #EXTINF:-1 channel-id="pluto-5ddd7cb2cbb9010009b4fe32" tvg-id="5ddd7cb2cbb9010009b4fe32" tvg-logo="https://images.pluto.tv/channels/5ddd7cb2cbb9010009b4fe32/colorLogoPNG.png" group-title="Kids" , Nick Jr. Club
 https://r.mjh.nz/PlutoTV/5ddd7cb2cbb9010009b4fe32-alt.m3u8
 
