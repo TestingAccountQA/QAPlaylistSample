@@ -8,6 +8,12 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://deportv.gob.ar/assets/deportv10.fd14a2a1.png" group-title="Sports",DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="AunarTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s1600/aunar-2022.png" group-title="General",AunarTV
+https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
+#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro
+https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
+#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 #EXTINF:-1 tvg-id="GarageTVLatinAmerica.ar" tvg-logo="https://i.imgur.com/3J6Y08E.png" group-title="Auto",Garage TV Latin America
 https://stream1.sersat.com/hls/garagetv.m3u8
 #EXTINF:-1 tvg-id="ArgentinisimaSatelital.ar" tvg-logo="https://i.imgur.com/xFgJawa.png" group-title="General",Argentinísima Satelital
@@ -40,16 +46,6 @@ https://rt-esp.rttv.com/dvr/rtesp/playlist.m3u8
 https://cdnesmain.telesur.ultrabase.net/mbliveMain/hd/chunklist.m3u8
 #EXTINF:-1 tvg-id="DiputadosTV.ar" tvg-logo="https://es.wikipedia.org/wiki/Diputados_Televisi%C3%B3n#/media/Archivo:Logo_Diputados_TV.png" group-title="Legislative",Diputados TV
 https://ythls.armelin.one/channel/UC1h8_HKc5wScqeRw1HV6a6w.m3u8
-#EXTINF:-1 tvg-id="AunarTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s1600/aunar-2022.png" group-title="General",AunarTV
-https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
-#EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro
-https://538d0bde28ccf.streamlock.net/live-cont.ar/encuentro/.m3u8
-#EXTINF:-1 tvg-id="Pakapaka.ar" tvg-logo="https://i.imgur.com/GJbRWwH.png" group-title="Kids",Pakapaka
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
-#EXTINF:-1 tvg-id="Vorterix" group-title="Music",Vorterix
-https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
-#EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Music",Beats Radio
-https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
 
 #EXTINF:-1 tvg-id="CineAr.ar" tvg-logo="https://i.imgur.com/Iozv4tT.png" group-title="Películas",CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/playlist.m3u8
@@ -104,3 +100,8 @@ https://r.mjh.nz/PlutoTV/5ddd7c348520b40009c347e2-alt.m3u8
 
 #EXTINF:-1 channel-id="pluto-645952687cb4b100084ed52e" tvg-id="645952687cb4b100084ed52e" tvg-logo="https://images.pluto.tv/channels/645952687cb4b100084ed52e/colorLogoPNG.png" tvg-chno="1455" group-title="Kids" , Nickelodeon Pluto TV
 https://r.mjh.nz/PlutoTV/645952687cb4b100084ed52e-alt.m3u8
+
+#EXTINF:-1 tvg-id="Vorterix" group-title="Music",Vorterix
+https://ythls.armelin.one/channel/UCvCTWHCbBC0b9UIeLeNs8ug.m3u8
+#EXTINF:-1 tvg-id="BeatsRadio.ar" tvg-logo="https://i.imgur.com/zkNUO5p.png" group-title="Music",Beats Radio
+https://videostream.shockmedia.com.ar:19360/beatsradio/beatsradio.m3u8
