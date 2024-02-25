@@ -1,5 +1,7 @@
 #EXTINF:-1 tvg-id="BVC.ar" tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="General",BVC
 https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8
+#EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Americatvlogo2015.svg" group-title="General",America TV
+https://1010-abc.dtvott.com/dash_live_1010/manifest.mpd?da=1&country=AR&accountType=DTH&accountId=2601dc6a-75ab-44d7-94fd-28ffdff19f95&deviceType=web&channelId=CH0100000000071&deviceId=4697891b-aadd-481d-b6df-e3a7ad2af93e
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="General",El Nueve
@@ -10,6 +12,8 @@ https://mitelefe.com/Api/Videos/GetSourceUrl/694564/0/HLS
 https://live-01-02-eltrece.vodgc.net/eltrecetv/index.m3u8
 #EXTINF:-1 tvg-id="DeporTV" tvg-logo="https://deportv.gob.ar/assets/deportv10.fd14a2a1.png" group-title="Sports",DeporTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/deportv/playlist.m3u8
+#EXTINF:-1 tvg-id="TyC" tvg-logo="https://e7.pngegg.com/pngimages/290/978/png-clipart-logo-tyc-sports-brand-trademark-mosaic-blue-text.png" group-title="Sports",TyC
+https://d3055hobuue3je.cloudfront.net/out/v1/188a8f3baf914a35868453bd5d0b0fd2/index.m3u8
 #EXTINF:-1 tvg-id="AunarTV" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjqPvjdUpx1Xvw5M760MJGQ6MlvizdadsI0-LhRkb2CDSBE3w0C-ATwuJ_rCR7iB7_SE-OdA1J72yU_wPan3RKJQgD_desM4j4B-1hqHg1Y-6HcAezz7iix0NaaO7sqASvfXEnf1D2f3NmmmAFRqt94IAQNksHGK2gXsLNn9dm4skAyWur6ME-2uK_t/s1600/aunar-2022.png" group-title="General",AunarTV
 https://538d0bde28ccf.streamlock.net/live-cont.ar/mirador/playlist.m3u8
 #EXTINF:-1 tvg-id="Encuentro.ar" tvg-logo="https://i.imgur.com/uBBZR1X.png" group-title="Culture",Encuentro
