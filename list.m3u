@@ -1,7 +1,5 @@
 #EXTINF:-1 tvg-id="BVC.ar" tvg-logo="https://bvconline.com.ar/images/logo.png" group-title="General",BVC
 https://bvclive1.boldmss.com/BVC_HD/BVC_HD.isml/BVC_HD.m3u8
-#EXTINF:-1 tvg-id="America TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f1/Americatvlogo2015.svg" group-title="General",America TV
-https://1010-abc.dtvott.com/dash_live_1010/manifest.mpd?da=1&country=AR&accountType=DTH&accountId=2601dc6a-75ab-44d7-94fd-28ffdff19f95&deviceType=web&channelId=CH0100000000071&deviceId=4697891b-aadd-481d-b6df-e3a7ad2af93e
 #EXTINF:-1 tvg-id="TVPublica.ar" tvg-logo="https://i.imgur.com/XGrkzN3.png" group-title="General",TV Pública
 https://cntlnk-main-edge-access.secure.footprint.net/entrypoint/c7_vivo01_dai_source-20001_all.m3u8
 #EXTINF:-1 tvg-id="ElNueve.ar" tvg-logo="https://i.imgur.com/cJHP7bU.png" group-title="General",El Nueve
